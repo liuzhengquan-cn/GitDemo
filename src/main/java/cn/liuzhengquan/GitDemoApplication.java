@@ -12,6 +12,8 @@ public class GitDemoApplication {
 
         System.out.println("Hello World !");
 
+        System.out.println("Master Edit ！");
+
         SpringApplication.run(GitDemoApplication.class, args);
     }
 
