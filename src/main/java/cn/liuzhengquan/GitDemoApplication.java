@@ -14,6 +14,8 @@ public class GitDemoApplication {
 
         System.out.println("Dev Edit ！");
 
+        System.out.println("GitHub Dev Edit ！");
+        
         SpringApplication.run(GitDemoApplication.class, args);
     }
 
